@@ -1950,7 +1950,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector:FanPinHeader_1x04_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 			(at 77.47 82.55 0)
 			(effects
 				(font
@@ -2024,7 +2024,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Module:MOUDLE14P-XIAO-DIP-SMD"
+		(property "Footprint" "footprints:XIAO-RP2040-DIP"
 			(at 90.678 74.168 0)
 			(effects
 				(font
@@ -2264,7 +2264,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "HC-SR04:XCVR_HC-SR04"
+		(property "Footprint" "HC-SR04 FOOTPRINT:XCVR_HC-SR04"
 			(at 119.38 30.48 0)
 			(effects
 				(font
