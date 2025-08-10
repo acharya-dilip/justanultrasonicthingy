@@ -2072,10 +2072,58 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "ECHO\n"
+		(at 98 32 90)
+		(layer "F.SilkS")
+		(uuid "785263d0-566b-4eee-9993-e0ec70e24c61")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "VCC\n"
+		(at 93 32 90)
+		(layer "F.SilkS")
+		(uuid "9b8e0207-1138-4d85-92df-ddb620d28afe")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "VCC\n"
 		(at 56.5 62.5 0)
 		(layer "F.SilkS")
 		(uuid "d4b193a6-0e79-40b8-bee0-4a9b63b5862c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "GND\n"
+		(at 100.5 32 90)
+		(layer "F.SilkS")
+		(uuid "f49cdd2e-4fd0-44ec-a53c-d7887c29a982")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "TRIG\n"
+		(at 95.5 32 90)
+		(layer "F.SilkS")
+		(uuid "f8f50512-1f0d-43e8-8088-72c01c222fa1")
 		(effects
 			(font
 				(size 1 1)
